@@ -1,0 +1,118 @@
+# **Java Programming Exercises**
+
+**Topics:** Variables, Data Types, User Input, and Operators\
+**Level:** Class 11 – Computer Engineering (Beginner to Intermediate)
+
+These exercises are designed to help students develop logical thinking and practical Java programming skills. They progress from basic variable declarations to problems combining multiple concepts.
+
+## **Level 1: Basic – Variables and Data Types**
+
+*Focus: Declaring variables, assigning values, and displaying output.*
+
+1. **Student Information:** Declare variables to store a student's name, age, class, section, and percentage. Display all the information.
+2. **Employee Details:** Store an employee's ID, name, salary, and department using appropriate data types. Display the details.
+3. **Rectangle Calculation:** Declare two variables for length and breadth. Calculate and display the area and perimeter of a rectangle.
+4. **Temperature Conversion:** Store temperature in Celsius and convert it into Fahrenheit.
+
+   Formula: \\(F = (C \times 9/5) + 32\\)
+5. **Simple Interest:** Declare variables for principal, rate, and time. Calculate simple interest.
+
+   Formula: \\(SI = \frac{P \times T \times R}{100}\\)
+6. **Swap Two Variables:** Declare two integer variables and swap their values using a third variable.
+7. **Swap Without Third Variable:** Swap two integer variables without using a third variable.
+
+## **Level 2: User Input**
+
+*Focus: Using the Scanner class to accept input from users.*
+
+8. **Personal Information:** Ask the user to enter their name, age, address, and phone number. Display the entered information.
+9. **Addition of Two Numbers:** Accept two numbers from the user and display their sum.
+10. **Area of a Circle:** Ask the user to enter the radius and calculate the area of the circle.
+
+    Formula: \\(Area = 3.14 \times r \times r\\)
+11. **Student Marks:** Accept marks in five subjects. Calculate and display:
+    - Total marks
+    - Average marks
+    - Percentage
+12. **Salary Calculator:** Accept basic salary, house rent allowance (HRA), and dearness allowance (DA). Calculate gross salary.
+
+    Formula: Gross Salary = Basic Salary + HRA + DA
+13. **Distance Converter:** Accept distance in kilometers and convert it into meters and centimeters.
+14. **Age Calculator:** Accept the user's birth year and current year. Calculate their approximate age.
+
+## **Level 3: Operators**
+
+*Focus: Arithmetic, relational, logical, assignment, and increment/decrement operators.*
+
+15. **Arithmetic Operations:** Accept two integers and display their:
+    - Addition
+    - Subtraction
+    - Multiplication
+    - Division
+    - Modulus
+16. **Even or Odd:** Accept an integer and determine whether it is even or odd using the modulus operator.
+17. **Positive, Negative, or Zero:** Accept a number and determine whether it is positive, negative, or zero using relational operators.
+18. **Increment and Decrement:** Accept an integer and demonstrate the results of:
+    - `a++`
+    - `++a`
+    - `a--`
+    - `--a`
+19. **Comparison:** Accept two numbers and display the results of the following comparisons:
+    - First number greater than second
+    - First number less than second
+    - Both numbers equal
+    - Both numbers not equal
+20. **Logical Operators:** Accept two integer values and check whether:
+    - Both numbers are positive.
+    - At least one number is positive.
+    - Both numbers are even.
+21. **Assignment Operators:** Declare an integer variable with an initial value of 20. Perform the following operations and display the result after each operation:
+    - `+= 5`
+    - `-= 3`
+    - `*= 2`
+    - `/= 4`
+    - `%= 3`
+
+## **Level 4: Application-Based Problems**
+
+*Focus: Combining variables, data types, user input, and operators.*
+
+22. **Electricity Bill Calculator**
+
+    Ask the user to enter the number of electricity units consumed. Calculate the bill using the following rates:
+
+    \| Units consumed | Rate per unit |\
+    \|---|---:|\
+    \| First 20 units | Rs. 5 |\
+    \| Next 30 units | Rs. 7 |\
+    \| Remaining units | Rs. 10 |
+
+    For this exercise, assume a flat progressive rate calculation without additional charges.
+23. **Shopping Bill**
+
+    Ask the user to enter:
+    - Product name
+    - Quantity
+    - Price per item
+
+    Calculate the total price, discount (10%), and final amount.
+24. **Time Converter**
+
+    Accept time in seconds and convert it into hours, minutes, and remaining seconds.
+25. **Bank Account Calculator**
+
+    Accept the initial bank balance, deposited amount, and withdrawn amount. Calculate and display the final balance.
+26. **Average Speed Calculator**
+
+    Accept distance in kilometers and time in hours. Calculate average speed in km/hr.
+
+    Formula: Speed = Distance / Time
+27. **Exam Result Calculator**
+
+    Accept marks in three subjects. Calculate total and average marks. Also display whether the student has scored above 40 in every subject using logical operators.
+28. **Gross and Net Salary**
+
+    Accept basic salary. Calculate:
+
+
+
